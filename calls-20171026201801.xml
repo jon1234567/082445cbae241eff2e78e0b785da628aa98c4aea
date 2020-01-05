@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<!--File Created By SMS Backup & Restore v10.01.154 on 26/10/2017 20:18:02-->
+<?xml-stylesheet type="text/xsl" href="calls.xsl"?>
+<calls count="110" backup_set="dd61d8ab-a0b9-49f7-b2d8-d84cb46f5b45" backup_date="1509063482061">
+  <call number="+18056377243" duration="65" date="1507699931417" type="2" presentation="1" readable_date="Oct 11, 2017 1:32:11 AM" contact_name="Voice Mail" />
+  <call number="+18056377243" duration="22" date="1507699972266" type="2" presentation="1" readable_date="Oct 11, 2017 1:32:52 AM" contact_name="Voice Mail" />
+  <call number="+18056377243" duration="31" date="1507700511893" type="2" presentation="1" readable_date="Oct 11, 2017 1:41:51 AM" contact_name="Voice Mail" />
+  <call number="8432003799" duration="8" date="1507700576370" type="2" presentation="1" readable_date="Oct 11, 2017 1:42:56 AM" contact_name="Mommy" />
+  <call number="+16146954723" duration="2" date="1507702342819" type="2" presentation="1" readable_date="Oct 11, 2017 2:12:22 AM" contact_name="(Unknown)" />
+  <call number="+17607609002" duration="8" date="1507735782618" type="1" presentation="1" readable_date="Oct 11, 2017 11:29:42 AM" contact_name="(Unknown)" />
+  <call number="+16146954723" duration="0" date="1507810780631" type="2" presentation="1" readable_date="Oct 12, 2017 8:19:40 AM" contact_name="(Unknown)" />
+  <call number="+17062516514" duration="21" date="1507811421081" type="2" presentation="1" readable_date="Oct 12, 2017 8:30:21 AM" contact_name="Ashlei" />
+  <call number="+17062516514" duration="0" date="1507812709712" type="2" presentation="1" readable_date="Oct 12, 2017 8:51:49 AM" contact_name="Ashlei" />
+  <call number="+18438213721" duration="91" date="1507812749660" type="1" presentation="1" readable_date="Oct 12, 2017 8:52:29 AM" contact_name="Wetz Hot Husband" />
+  <call number="+18438213721" duration="321" date="1507824956204" type="1" presentation="1" readable_date="Oct 12, 2017 12:15:56 PM" contact_name="Wetz Hot Husband" />
+  <call number="+18438213721" duration="117" date="1507904260001" type="1" presentation="1" readable_date="Oct 13, 2017 10:17:40 AM" contact_name="Wetz Hot Husband" />
+  <call number="+18438213721" duration="60" date="1507906393653" type="1" presentation="1" readable_date="Oct 13, 2017 10:53:13 AM" contact_name="Wetz Hot Husband" />
+  <call number="8438248665" duration="0" date="1507911860030" type="2" presentation="1" readable_date="Oct 13, 2017 12:24:20 PM" contact_name="Carl Leach" />
+  <call number="+18438213721" duration="0" date="1507913038285" type="3" presentation="1" readable_date="Oct 13, 2017 12:43:58 PM" contact_name="Wetz Hot Husband" />
+  <call number="+18438213721" duration="77" date="1507913058647" type="2" presentation="1" readable_date="Oct 13, 2017 12:44:18 PM" contact_name="Wetz Hot Husband" />
+  <call number="+18434372426" duration="2" date="1507914804620" type="2" presentation="1" readable_date="Oct 13, 2017 1:13:24 PM" contact_name="Will" />
+  <call number="+18434372426" duration="7" date="1507917660993" type="2" presentation="1" readable_date="Oct 13, 2017 2:01:00 PM" contact_name="Will" />
+  <call number="+18438213721" duration="61" date="1507920995501" type="1" presentation="1" readable_date="Oct 13, 2017 2:56:35 PM" contact_name="Wetz Hot Husband" />
+  <call number="+18434372426" duration="3" date="1507926939354" type="2" presentation="1" readable_date="Oct 13, 2017 4:35:39 PM" contact_name="Will" />
+  <call number="+18434372426" duration="0" date="1507926998816" type="2" presentation="1" readable_date="Oct 13, 2017 4:36:38 PM" contact_name="Will" />
+  <call number="+18432005345" duration="104" date="1507927308609" type="1" presentation="1" readable_date="Oct 13, 2017 4:41:48 PM" contact_name="Daddy" />
+  <call number="+18434372426" duration="2" date="1507929482577" type="2" presentation="1" readable_date="Oct 13, 2017 5:18:02 PM" contact_name="Will" />
+  <call number="+18434372426" duration="0" date="1507929521851" type="2" presentation="1" readable_date="Oct 13, 2017 5:18:41 PM" contact_name="Will" />
+  <call number="+18434372426" duration="0" date="1507929525978" type="2" presentation="1" readable_date="Oct 13, 2017 5:18:45 PM" contact_name="Will" />
+  <call number="7062516514" duration="0" date="1507930263316" type="2" presentation="1" readable_date="Oct 13, 2017 5:31:03 PM" contact_name="Ashlei" />
+  <call number="+18434372426" duration="0" date="1508003371660" type="2" presentation="1" readable_date="Oct 14, 2017 1:49:31 PM" contact_name="Will" />
+  <call number="+18435091739" duration="0" date="1508008763998" type="3" presentation="1" readable_date="Oct 14, 2017 3:19:23 PM" contact_name="Daniel" />
+  <call number="+18585051237" duration="0" date="1508010009283" type="3" presentation="1" readable_date="Oct 14, 2017 3:40:09 PM" contact_name="(Unknown)" />
+  <call number="+18585051237" duration="3" date="1508012548579" type="2" presentation="1" readable_date="Oct 14, 2017 4:22:28 PM" contact_name="(Unknown)" />
+  <call number="+18585051237" duration="18" date="1508012560970" type="2" presentation="1" readable_date="Oct 14, 2017 4:22:40 PM" contact_name="(Unknown)" />
+  <call number="+18056377243" duration="8" date="1508092433218" type="2" presentation="1" readable_date="Oct 15, 2017 2:33:53 PM" contact_name="Voice Mail" />
+  <call number="8545292199" duration="31" date="1508092569117" type="2" presentation="1" readable_date="Oct 15, 2017 2:36:09 PM" contact_name="Jo Nathan" />
+  <call number="8882762020" duration="49" date="1508092643941" type="2" presentation="1" readable_date="Oct 15, 2017 2:37:23 PM" contact_name="(Unknown)" />
+  <call number="8882762020" duration="605" date="1508092704206" type="2" presentation="1" readable_date="Oct 15, 2017 2:38:24 PM" contact_name="(Unknown)" />
+  <call number="+17062516514" duration="19" date="1508098894138" type="2" presentation="1" readable_date="Oct 15, 2017 4:21:34 PM" contact_name="Ashlei" />
+  <call number="+18432005345" duration="957" date="1508158342825" type="1" presentation="1" readable_date="Oct 16, 2017 8:52:22 AM" contact_name="Daddy" />
+  <call number="+18438213721" duration="59" date="1508166076536" type="1" presentation="1" readable_date="Oct 16, 2017 11:01:16 AM" contact_name="Wetz Hot Husband" />
+  <call number="8442060620" duration="107" date="1508166185802" type="2" presentation="1" readable_date="Oct 16, 2017 11:03:05 AM" contact_name="(Unknown)" />
+  <call number="8437475830" duration="84" date="1508166470281" type="2" presentation="1" readable_date="Oct 16, 2017 11:07:50 AM" contact_name="(Unknown)" />
+  <call number="+18439583300" duration="337" date="1508166660784" type="2" presentation="1" readable_date="Oct 16, 2017 11:11:00 AM" contact_name="(Unknown)" />
+  <call number="8438714790" duration="102" date="1508167073700" type="2" presentation="1" readable_date="Oct 16, 2017 11:17:53 AM" contact_name="(Unknown)" />
+  <call number="18438213721" duration="970" date="1508167224802" type="2" presentation="1" readable_date="Oct 16, 2017 11:20:24 AM" contact_name="Wetz Hot Husband" />
+  <call number="18438213721" duration="0" date="1508170411021" type="2" presentation="1" readable_date="Oct 16, 2017 12:13:31 PM" contact_name="Wetz Hot Husband" />
+  <call number="+18438213721" duration="104" date="1508186294240" type="1" presentation="1" readable_date="Oct 16, 2017 4:38:14 PM" contact_name="Wetz Hot Husband" />
+  <call number="+18437927888" duration="43" date="1508191809622" type="1" presentation="1" readable_date="Oct 16, 2017 6:10:09 PM" contact_name="(Unknown)" />
+  <call number="+18056377243" duration="12" date="1508254054211" type="2" presentation="1" readable_date="Oct 17, 2017 11:27:34 AM" contact_name="Voice Mail" />
+  <call number="+18438213721" duration="0" date="1508254814163" type="3" presentation="1" readable_date="Oct 17, 2017 11:40:14 AM" contact_name="Wetz Hot Husband" />
+  <call number="+18438213721" duration="326" date="1508254881903" type="1" presentation="1" readable_date="Oct 17, 2017 11:41:21 AM" contact_name="Wetz Hot Husband" />
+  <call number="8438248665" duration="0" date="1508255218446" type="2" presentation="1" readable_date="Oct 17, 2017 11:46:58 AM" contact_name="Carl Leach" />
+  <call number="+18438213721" duration="0" date="1508255323146" type="2" presentation="1" readable_date="Oct 17, 2017 11:48:43 AM" contact_name="Wetz Hot Husband" />
+  <call number="+18438213721" duration="37" date="1508255380897" type="2" presentation="1" readable_date="Oct 17, 2017 11:49:40 AM" contact_name="Wetz Hot Husband" />
+  <call number="+18669407640" duration="0" date="1508255448360" type="3" presentation="1" readable_date="Oct 17, 2017 11:50:48 AM" contact_name="(Unknown)" />
+  <call number="+18438213721" duration="30" date="1508255474820" type="2" presentation="1" readable_date="Oct 17, 2017 11:51:14 AM" contact_name="Wetz Hot Husband" />
+  <call number="+18432005345" duration="556" date="1508255525322" type="1" presentation="1" readable_date="Oct 17, 2017 11:52:05 AM" contact_name="Daddy" />
+  <call number="+18433762628" duration="61" date="1508256139729" type="2" presentation="1" readable_date="Oct 17, 2017 12:02:19 PM" contact_name="Sportsman Manufacturing Inc" />
+  <call number="8437475830" duration="0" date="1508256383780" type="2" presentation="1" readable_date="Oct 17, 2017 12:06:23 PM" contact_name="(Unknown)" />
+  <call number="8437475830" duration="310" date="1508256569378" type="2" presentation="1" readable_date="Oct 17, 2017 12:09:29 PM" contact_name="(Unknown)" />
+  <call number="+18438213721" duration="93" date="1508256998024" type="2" presentation="1" readable_date="Oct 17, 2017 12:16:38 PM" contact_name="Wetz Hot Husband" />
+  <call number="+18432005345" duration="338" date="1508258342108" type="1" presentation="1" readable_date="Oct 17, 2017 12:39:02 PM" contact_name="Daddy" />
+  <call number="8032691475" duration="0" date="1508270983102" type="2" presentation="1" readable_date="Oct 17, 2017 4:09:43 PM" contact_name="(Unknown)" />
+  <call number="+18437975600" duration="23" date="1508271266335" type="1" presentation="1" readable_date="Oct 17, 2017 4:14:26 PM" contact_name="(Unknown)" />
+  <call number="+18438213721" duration="25" date="1508272294022" type="1" presentation="1" readable_date="Oct 17, 2017 4:31:34 PM" contact_name="Wetz Hot Husband" />
+  <call number="+18438213721" duration="195" date="1508339285794" type="1" presentation="1" readable_date="Oct 18, 2017 11:08:05 AM" contact_name="Wetz Hot Husband" />
+  <call number="+18437975600" duration="49" date="1508351552253" type="2" presentation="1" readable_date="Oct 18, 2017 2:32:32 PM" contact_name="(Unknown)" />
+  <call number="18438213721" duration="95" date="1508351669968" type="2" presentation="1" readable_date="Oct 18, 2017 2:34:29 PM" contact_name="Wetz Hot Husband" />
+  <call number="+18437975600" duration="0" date="1508356327871" type="3" presentation="1" readable_date="Oct 18, 2017 3:52:07 PM" contact_name="(Unknown)" />
+  <call number="+18432003799" duration="112" date="1508361507629" type="1" presentation="1" readable_date="Oct 18, 2017 5:18:27 PM" contact_name="Mommy" />
+  <call number="8432003799" duration="101" date="1508361689327" type="2" presentation="1" readable_date="Oct 18, 2017 5:21:29 PM" contact_name="Mommy" />
+  <call number="8432003799" duration="0" date="1508362110167" type="2" presentation="1" readable_date="Oct 18, 2017 5:28:30 PM" contact_name="Mommy" />
+  <call number="8432003799" duration="18" date="1508362513220" type="2" presentation="1" readable_date="Oct 18, 2017 5:35:13 PM" contact_name="Mommy" />
+  <call number="+18433457761" duration="0" date="1508366490674" type="3" presentation="1" readable_date="Oct 18, 2017 6:41:30 PM" contact_name="Will Moped" />
+  <call number="+18433457761" duration="28" date="1508368618510" type="2" presentation="1" readable_date="Oct 18, 2017 7:16:58 PM" contact_name="Will Moped" />
+  <call number="+18433457761" duration="11" date="1508369781135" type="2" presentation="1" readable_date="Oct 18, 2017 7:36:21 PM" contact_name="Will Moped" />
+  <call number="+18433457761" duration="7" date="1508369819499" type="2" presentation="1" readable_date="Oct 18, 2017 7:36:59 PM" contact_name="Will Moped" />
+  <call number="+18438213721" duration="301" date="1508423776954" type="1" presentation="1" readable_date="Oct 19, 2017 10:36:16 AM" contact_name="Wetz Hot Husband" />
+  <call number="+18432003799" duration="16" date="1508431443958" type="1" presentation="1" readable_date="Oct 19, 2017 12:44:03 PM" contact_name="Mommy" />
+  <call number="+18437975600" duration="43" date="1508443842395" type="1" presentation="1" readable_date="Oct 19, 2017 4:10:42 PM" contact_name="(Unknown)" />
+  <call number="+18032818553" duration="0" date="1508514935814" type="3" presentation="1" readable_date="Oct 20, 2017 11:55:35 AM" contact_name="(Unknown)" />
+  <call number="+18438213721" duration="116" date="1508516979812" type="1" presentation="1" readable_date="Oct 20, 2017 12:29:39 PM" contact_name="Wetz Hot Husband" />
+  <call number="+18437975600" duration="24" date="1508533708302" type="1" presentation="1" readable_date="Oct 20, 2017 5:08:28 PM" contact_name="(Unknown)" />
+  <call number="18438213721" duration="292" date="1508624452969" type="2" presentation="1" readable_date="Oct 21, 2017 6:20:52 PM" contact_name="Wetz Hot Husband" />
+  <call number="+18432005345" duration="259" date="1508627285441" type="1" presentation="1" readable_date="Oct 21, 2017 7:08:05 PM" contact_name="Daddy" />
+  <call number="+18438213721" duration="61" date="1508689099189" type="1" presentation="1" readable_date="Oct 22, 2017 12:18:19 PM" contact_name="Wetz Hot Husband" />
+  <call number="+18438213721" duration="26" date="1508689286010" type="1" presentation="1" readable_date="Oct 22, 2017 12:21:26 PM" contact_name="Wetz Hot Husband" />
+  <call number="+18642230694" duration="342" date="1508763910349" type="2" presentation="1" readable_date="Oct 23, 2017 9:05:10 AM" contact_name="(Unknown)" />
+  <call number="8437927888" duration="159" date="1508764324176" type="2" presentation="1" readable_date="Oct 23, 2017 9:12:04 AM" contact_name="(Unknown)" />
+  <call number="8437927888" duration="52" date="1508764558581" type="2" presentation="1" readable_date="Oct 23, 2017 9:15:58 AM" contact_name="(Unknown)" />
+  <call number="+18438213721" duration="101" date="1508774995104" type="1" presentation="1" readable_date="Oct 23, 2017 12:09:55 PM" contact_name="Wetz Hot Husband" />
+  <call number="+18438714790" duration="0" date="1508863632725" type="3" presentation="1" readable_date="Oct 24, 2017 12:47:12 PM" contact_name="(Unknown)" />
+  <call number="+18438213721" duration="222" date="1508863928567" type="1" presentation="1" readable_date="Oct 24, 2017 12:52:08 PM" contact_name="Wetz Hot Husband" />
+  <call number="+18438752191" duration="113" date="1508882352195" type="2" presentation="1" readable_date="Oct 24, 2017 5:59:12 PM" contact_name="(Unknown)" />
+  <call number="+18438049783" duration="14" date="1508883659768" type="1" presentation="1" readable_date="Oct 24, 2017 6:20:59 PM" contact_name="(Unknown)" />
+  <call number="+18438213721" duration="118" date="1508888699931" type="1" presentation="1" readable_date="Oct 24, 2017 7:44:59 PM" contact_name="Wetz Hot Husband" />
+  <call number="+18438718579" duration="0" date="1508962652446" type="3" presentation="1" readable_date="Oct 25, 2017 4:17:32 PM" contact_name="(Unknown)" />
+  <call number="+18438718579" duration="3" date="1508962690346" type="2" presentation="1" readable_date="Oct 25, 2017 4:18:10 PM" contact_name="(Unknown)" />
+  <call number="+18433457761" duration="0" date="1508971018297" type="3" presentation="1" readable_date="Oct 25, 2017 6:36:58 PM" contact_name="Will Moped" />
+  <call number="+18433457761" duration="0" date="1508971052608" type="3" presentation="1" readable_date="Oct 25, 2017 6:37:32 PM" contact_name="Will Moped" />
+  <call number="+18438213721" duration="188" date="1508972350730" type="1" presentation="1" readable_date="Oct 25, 2017 6:59:10 PM" contact_name="Wetz Hot Husband" />
+  <call number="+18438213721" duration="5" date="1509022677669" type="1" presentation="1" readable_date="Oct 26, 2017 8:57:57 AM" contact_name="Wetz Hot Husband" />
+  <call number="+18433595083" duration="0" date="1509026836543" type="3" presentation="1" readable_date="Oct 26, 2017 10:07:16 AM" contact_name="Q" />
+  <call number="+18433595083" duration="185" date="1509033488600" type="1" presentation="1" readable_date="Oct 26, 2017 11:58:08 AM" contact_name="Q" />
+  <call number="+18432005345" duration="27" date="1509044990682" type="1" presentation="1" readable_date="Oct 26, 2017 3:09:50 PM" contact_name="Daddy" />
+  <call number="+18433457761" duration="21" date="1509045661209" type="2" presentation="1" readable_date="Oct 26, 2017 3:21:01 PM" contact_name="Will Moped" />
+  <call number="+18433457761" duration="2" date="1509052883057" type="2" presentation="1" readable_date="Oct 26, 2017 5:21:23 PM" contact_name="Will Moped" />
+  <call number="+18433457761" duration="1" date="1509052891887" type="2" presentation="1" readable_date="Oct 26, 2017 5:21:31 PM" contact_name="Will Moped" />
+  <call number="+18433457761" duration="1" date="1509052933152" type="2" presentation="1" readable_date="Oct 26, 2017 5:22:13 PM" contact_name="Will Moped" />
+  <call number="+18433457761" duration="2" date="1509053034530" type="2" presentation="1" readable_date="Oct 26, 2017 5:23:54 PM" contact_name="Will Moped" />
+  <call number="+18433457761" duration="1" date="1509053363269" type="2" presentation="1" readable_date="Oct 26, 2017 5:29:23 PM" contact_name="Will Moped" />
+  <call number="+37368782045" duration="0" date="1509063154082" type="3" presentation="1" readable_date="Oct 26, 2017 8:12:34 PM" contact_name="(Unknown)" />
+</calls>
